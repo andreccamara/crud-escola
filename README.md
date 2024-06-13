@@ -17,3 +17,4 @@ opcionalmente o usuario pode instalar o nodemon para atualização automatica de
 npm i nodemon -D
 
 o banco de dados utilizado foi o mysql 
+não esqueça de criar as tabelas com as colunas exatamente como está no codigo
